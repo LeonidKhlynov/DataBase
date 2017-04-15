@@ -5,7 +5,7 @@
 CREATE TABLE public.supply
 (
   id_supply integer NOT NULL,
-  supply_date character varying(150) NOT NULL,
+  supply_date date NOT NULL,
   volume character varying(150) NOT NULL,
   id_caterer integer NOT NULL,
   id_material integer NOT NULL,

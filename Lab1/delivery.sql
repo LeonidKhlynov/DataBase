@@ -5,7 +5,7 @@
 CREATE TABLE public.deliver
 (
   id_deliver integer NOT NULL,
-  deliver_date character varying(150) NOT NULL,
+  deliver_date date NOT NULL,
   id_section integer NOT NULL,
   id_material integer NOT NULL,
   id_store integer NOT NULL,
