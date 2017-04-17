@@ -1,0 +1,4 @@
+CREATE SEQUENCE seq_material
+  START WITH 1
+  INCREMENT BY 1
+  
