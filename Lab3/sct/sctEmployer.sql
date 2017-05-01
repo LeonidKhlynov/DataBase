@@ -1,0 +1,1 @@
+SELECT surname, name, fathername, bday FROM employer
