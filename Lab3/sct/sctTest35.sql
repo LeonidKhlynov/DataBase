@@ -1,0 +1,1 @@
+CREATE TABLE exemp as SELECT * FROM employer;
